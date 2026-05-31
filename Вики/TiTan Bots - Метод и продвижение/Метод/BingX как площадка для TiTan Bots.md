@@ -51,8 +51,8 @@ ATLAS отличается от обычной сетки тем, что не д
 
 ## Связи
 
-- [[../Партнерка/BingX - Master Trader Copy Trading партнерская модель|BingX - Master Trader Copy Trading партнерская модель]]
-- [[../Риски и ограничения/ATLAS crypto - ограничения обещаний BingX и profit share|ATLAS crypto - ограничения обещаний BingX и profit share]]
-- [[../Контент/BingX и ATLAS crypto - идеи контента|BingX и ATLAS crypto - идеи контента]]
+- [BingX - Master Trader Copy Trading партнерская модель](../%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%BA%D0%B0/BingX%20-%20Master%20Trader%20Copy%20Trading%20%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.md)
+- [ATLAS crypto - ограничения обещаний BingX и profit share](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/ATLAS%20crypto%20-%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B9%20BingX%20%D0%B8%20profit%20share.md)
+- [BingX и ATLAS crypto - идеи контента](../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/BingX%20%D0%B8%20ATLAS%20crypto%20-%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0.md)
 
 
