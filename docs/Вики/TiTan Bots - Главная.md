@@ -1,3 +1,7 @@
+---
+sitemap: "[[sitemap.xml]]"
+---
+
 # TiTan Bots - Главная
 
 Главный вход в wiki TiTan Bots.
