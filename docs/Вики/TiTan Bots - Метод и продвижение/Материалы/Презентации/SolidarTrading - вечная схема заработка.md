@@ -26,9 +26,9 @@ sections:
 
 ## Файлы
 
-- [SolidarTrading. Вечная схема заработка..pdf](../../../../../_assets/img/SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - первая версия, 2025-12-03.
-- [Solidar Trading. Вечная схема заработка..pdf](../../../../../_assets/img/Solidar%20Trading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - вторая версия, 2025-12-22.
-- [SolidarTrading. Вечная схема заработка 2.pdf](../../../../../_assets/img/SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%202.pdf) - поздняя версия ранней упаковки, 2026-04-27.
+- [SolidarTrading. Вечная схема заработка..pdf](./SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - первая версия, 2025-12-03.
+- [Solidar Trading. Вечная схема заработка..pdf](./Solidar%20Trading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0..pdf) - вторая версия, 2025-12-22.
+- [SolidarTrading. Вечная схема заработка 2.pdf](./SolidarTrading.%20%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%202.pdf) - поздняя версия ранней упаковки, 2026-04-27.
 
 ## Связанное видео
 
