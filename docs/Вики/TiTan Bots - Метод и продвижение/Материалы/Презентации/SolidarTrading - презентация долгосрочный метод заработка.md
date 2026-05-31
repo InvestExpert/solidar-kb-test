@@ -50,7 +50,7 @@ sections:
 
 ## Актуальный файл
 
-- [v1 PDF](../../../../../_assets/img/SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20v1%202026-05-12.pdf)
+- [v1 PDF](./SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20-%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20v1%202026-05-12.pdf)
 
 Публичная ссылка на PDF-презентацию:
 https://drive.google.com/file/d/1vX4BxHzmqgOaE-sIMpshwW8ZRVlRSZmv/view?usp=sharing
