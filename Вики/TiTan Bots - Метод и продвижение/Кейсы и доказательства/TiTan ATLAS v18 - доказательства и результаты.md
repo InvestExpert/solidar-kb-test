@@ -97,7 +97,7 @@ sections:
 
 ## Исторический тестовый материал
 
-Ролик [[../Материалы/Видео/SolidarTrading - первый шаг от 12 до 118 процентов в месяц|SolidarTrading - первый шаг от 12 до 118 процентов в месяц]] относится к раннему тестовому этапу, а не к текущей модели метода.
+Ролик [SolidarTrading - первый шаг от 12 до 118 процентов в месяц](../%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/SolidarTrading%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%88%D0%B0%D0%B3%20%D0%BE%D1%82%2012%20%D0%B4%D0%BE%20118%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86.md) относится к раннему тестовому этапу, а не к текущей модели метода.
 
 URL ролика: https://youtu.be/JTQd_sfdD6U.
 
@@ -126,8 +126,8 @@ URL ролика: https://youtu.be/JTQd_sfdD6U.
 
 ## Связи
 
-- [[../Метод/SolidarTrading - долгосрочный метод заработка|SolidarTrading - долгосрочный метод заработка]]
-- [[../Метод/SolidarTrading - сеточный робот и просадка простым языком|SolidarTrading - сеточный робот и просадка простым языком]]
-- [[../Материалы/Видео/SolidarTrading - первый шаг от 12 до 118 процентов в месяц|SolidarTrading - первый шаг от 12 до 118 процентов в месяц]]
-- [[../Оффер/SolidarTrading - базовый оффер|SolidarTrading - базовый оффер]]
-- [[../Риски и ограничения/SolidarTrading - рискованные обещания в презентации|SolidarTrading - рискованные обещания в презентации]]
+- [SolidarTrading - долгосрочный метод заработка](../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
+- [SolidarTrading - сеточный робот и просадка простым языком](../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D1%81%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%20%D0%B8%20%D0%BF%D1%80%D0%BE%D1%81%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC.md)
+- [SolidarTrading - первый шаг от 12 до 118 процентов в месяц](../%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE/SolidarTrading%20-%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%88%D0%B0%D0%B3%20%D0%BE%D1%82%2012%20%D0%B4%D0%BE%20118%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86.md)
+- [SolidarTrading - базовый оффер](../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)
+- [SolidarTrading - рискованные обещания в презентации](../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)

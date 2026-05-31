@@ -18,7 +18,7 @@ sections:
 
 ## Короткий ответ
 
-TiTan Bots - это не один случайный робот, а линейка торговых систем. Для текущего публичного направления SolidarTrading основной робот - [[../../../TiTan Atlas (BA)|TiTan ATLAS]].
+TiTan Bots - это не один случайный робот, а линейка торговых систем. Для текущего публичного направления SolidarTrading основной робот - [TiTan ATLAS](../../../TiTan%20Atlas%20(BA).md).
 
 Продажная формулировка:
 
@@ -28,7 +28,7 @@ TiTan Bots - это не один случайный робот, а линейк
 
 ## Что база знает
 
-- В технической базе уже есть отдельные страницы по [[../../../TiTan Atlas (BA)|TiTan ATLAS]], [[../../../TiTan Hyperion (FLAT)|TiTan HYPERION]], [[../../../TiTan Helios (Bollinger ADX)|TiTan HELIOS]] и [[../../../TiTan Kronos (CE)|TiTan KRONOS]].
+- В технической базе уже есть отдельные страницы по [TiTan ATLAS](../../../TiTan%20Atlas%20(BA).md), [TiTan HYPERION](../../../TiTan%20Hyperion%20(FLAT).md), [TiTan HELIOS](../../../TiTan%20Helios%20(Bollinger%20ADX).md) и [TiTan KRONOS](../../../TiTan%20Kronos%20(CE).md).
 - Для клиента не нужно начинать с внутренней архитектуры и кода.
 - В публичном SolidarTrading сейчас фокус на ATLAS.
 - Остальные роботы можно описывать как более широкую линейку TiTan Bots, которая будет развиваться постепенно.
@@ -71,15 +71,15 @@ TiTan Bots - это не один случайный робот, а линейк
 
 ## Где упоминается
 
-- [[../../../TiTan Atlas (BA)|TiTan ATLAS]]
-- [[../../../TiTan Hyperion (FLAT)|TiTan HYPERION]]
-- [[../../../TiTan Helios (Bollinger ADX)|TiTan HELIOS]]
-- [[../../../TiTan Kronos (CE)|TiTan KRONOS]]
-- [[../../../Имена титанов ботов|Имена титанов ботов]]
-- [[../Оффер/SolidarTrading - базовый оффер|SolidarTrading - базовый оффер]]
-- [[./SolidarTrading - долгосрочный метод заработка|SolidarTrading - долгосрочный метод заработка]]
+- [TiTan ATLAS](../../../TiTan%20Atlas%20(BA).md)
+- [TiTan HYPERION](../../../TiTan%20Hyperion%20(FLAT).md)
+- [TiTan HELIOS](../../../TiTan%20Helios%20(Bollinger%20ADX).md)
+- [TiTan KRONOS](../../../TiTan%20Kronos%20(CE).md)
+- [Имена титанов ботов](../../../%D0%98%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B1%D0%BE%D1%82%D0%BE%D0%B2.md)
+- [SolidarTrading - базовый оффер](../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)
+- [SolidarTrading - долгосрочный метод заработка](./SolidarTrading%20-%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
 
 ## Связанные материалы
 
-- [[../Материалы/Презентации/SolidarTrading - полная презентация долгосрочный метод заработка|SolidarTrading - полная презентация долгосрочный метод заработка]]
-- [[../Кейсы и доказательства/TiTan ATLAS v18 - доказательства и результаты|TiTan ATLAS v18 - доказательства и результаты]]
+- [SolidarTrading - полная презентация долгосрочный метод заработка](../%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/SolidarTrading%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.md)
+- [TiTan ATLAS v18 - доказательства и результаты](../%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/TiTan%20ATLAS%20v18%20-%20%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B.md)

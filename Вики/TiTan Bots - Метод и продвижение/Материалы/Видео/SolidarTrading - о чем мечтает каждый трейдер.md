@@ -50,16 +50,16 @@ URL: https://youtu.be/3beO3nYDmW8.
 
 ## Какие знания созданы или обновлены
 
-- [[../../Метод/SolidarTrading - идеальный трейдинг автоматизация копитрейдинг и статистика|SolidarTrading - идеальный трейдинг автоматизация копитрейдинг и статистика]]
-- [[../../Возражения/Почему копитрейдинг лучше сигналов|Почему копитрейдинг лучше сигналов]]
-- [[../../Возражения/Почему SolidarTrading не продает робота напрямую|Почему SolidarTrading не продает робота напрямую]]
-- [[../../Оффер/SolidarTrading - базовый оффер|SolidarTrading - базовый оффер]]
-- [[../../Риски и ограничения/SolidarTrading - рискованные обещания в презентации|SolidarTrading - рискованные обещания в презентации]]
-- [[../../Контент/SolidarTrading - банк сильных формулировок|SolidarTrading - банк сильных формулировок]]
-- [[../../FAQ/SolidarTrading - карта вопросов|SolidarTrading - карта вопросов]]
+- [SolidarTrading - идеальный трейдинг автоматизация копитрейдинг и статистика](../../%D0%9C%D0%B5%D1%82%D0%BE%D0%B4/SolidarTrading%20-%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%B8%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.md)
+- [Почему копитрейдинг лучше сигналов](../../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.md)
+- [Почему SolidarTrading не продает робота напрямую](../../%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20SolidarTrading%20%D0%BD%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%BC%D1%83%D1%8E.md)
+- [SolidarTrading - базовый оффер](../../%D0%9E%D1%84%D1%84%D0%B5%D1%80/SolidarTrading%20-%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BE%D1%84%D1%84%D0%B5%D1%80.md)
+- [SolidarTrading - рискованные обещания в презентации](../../%D0%A0%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B8%20%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/SolidarTrading%20-%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.md)
+- [SolidarTrading - банк сильных формулировок](../../%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/SolidarTrading%20-%20%D0%B1%D0%B0%D0%BD%D0%BA%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.md)
+- [SolidarTrading - карта вопросов](../../FAQ/SolidarTrading%20-%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2.md)
 
 ## Связанные материалы
 
-- [[./SolidarTrading - невероятные результаты в начале 2026 которые не должны были быть|SolidarTrading - невероятные результаты в начале 2026 которые не должны были быть]]
-- [[./SolidarTrading - секрет заработка с ИИ в 2026 году|SolidarTrading - секрет заработка с ИИ в 2026 году]]
-- [[./SolidarTrading - разбираем по винтикам|SolidarTrading - разбираем по винтикам]]
+- [SolidarTrading - невероятные результаты в начале 2026 которые не должны были быть](./SolidarTrading%20-%20%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D0%B2%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5%202026%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%BD%D0%B5%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%B1%D1%8B%D0%BB%D0%B8%20%D0%B1%D1%8B%D1%82%D1%8C.md)
+- [SolidarTrading - секрет заработка с ИИ в 2026 году](./SolidarTrading%20-%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%20%D0%98%D0%98%20%D0%B2%202026%20%D0%B3%D0%BE%D0%B4%D1%83.md)
+- [SolidarTrading - разбираем по винтикам](./SolidarTrading%20-%20%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%20%D0%BF%D0%BE%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%D0%BC.md)
